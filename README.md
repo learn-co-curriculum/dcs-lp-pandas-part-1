@@ -13,7 +13,7 @@ Introducing Libraries: NumPy and Pandas Lesson Plan
 **Mod**: Module 1                    <br/>
 **Topic**: Pandas 1  <br/>
 **Amount of time**: 1.5 hours <br/>
-**Author**: Rachel Hirsch, Alison Peebles
+**Author**: Rachel Hirsch, Alison Peebles   
 ​
 Adapted from: https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-1/intro_libraries_numpy_and_pandas
 
