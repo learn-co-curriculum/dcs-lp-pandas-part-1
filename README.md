@@ -1,4 +1,3 @@
-Ported from: https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-1/intro_libraries_numpy_and_pandas
 ---
 title: NumPyandPandas
 layout: post
@@ -16,6 +15,8 @@ Introducing Libraries: NumPy and Pandas Lesson Plan
 **Amount of time**: 1.5 hours <br/>
 **Author**: Rachel Hirsch, Alison Peebles
 ​
+Adapted from: https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-1/intro_libraries_numpy_and_pandas
+
 ​
 ***
 ​
